@@ -1,0 +1,32 @@
+What is git? -> Version control system.Helps keep track of files a software used to keep track of changes
+
+What is GitHub? -> The platform that hosts git repositories (website)
+
+What is a local repository? -> On your computer the folder that's keeping track of changes
+
+What is a remote repository? -> The folder on any given platforms, we are using GitHub, Keeps track of changes online
+
+
+Link our project to our GitHub account
+
+========
+
+1.Intellij IDE -> create  a new project and called.
+
+
+Step 1:
+Project level de .gitignore file yaradiriq.
+
+Right click srs -> select new package ->file -> example day.txt
+
+Intellij IDE -> VCS -> enable version control -> Git -> Ok
+
+Intellij IDE -> File -> Setting -> Version Control -> GitHub -> add account -> Ok
+
+New project yaratdigdan sonra intelijeyde Git -> select GitHub -> select Share Project On GitHub (only first time)
+
+->repository adi oldugu kimi galir -> select share button -> than push
+
+Intelijeyden bir basa GitHub'a getmek ucun ->select Git -> go down -> select GitHub ->select Open On GitHub
+
+Yaratdigimiz file GitHubda gormek ucun ilk Commit than Push
