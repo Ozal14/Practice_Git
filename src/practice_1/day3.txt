@@ -1,0 +1,21 @@
+Step 1: Gedirik githuba olan file icinde her hansi bir deyisiklik edirik:
+
+File da edilen deyisiklik ==> master -> qelem isaresi -> daha sonra ise baslayiriq her hansi bir deyisiklik etmeye.
+Asagiya dogru gelirik commit secirik(eger commetin icinde her hansi bir sey yazsaq conflict yaranir.
+Ona gore de hec bir deyisiklik etmeden sadece commit duymesini basiriq)
+Next step  ===>
+Go back Intellij IDE
+Git  ->  select fetch  ->  click on it  ->
+Step2 : Fetch ==> githubda olunan her hansi bir deyisikliyi Intellij IDE gormek ucun istifade edirik.
+Step3 : Pull  ==> githubdan bir basa intelijeye cagiririg.
+
+===========
+
+GitHubda yeni File yaratmaq == > go to GitHub ==> srs ==> add file ==>select create new file (file adindan sonr .txt unutma==> Example: summary.txt) ==> sonra ise file icinde isledikden sonra hec bir deyisiklik etmeden COMMET edirik.
+
+Go back Intellij IDE
+
+Git -> Fetch
+Git -> Pull
+
+Eyni GitHubda yaratdigimiz file Intellij IDE import etmis olurug
