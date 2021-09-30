@@ -1,0 +1,8 @@
+Create a   .gitignore file
+
+Why we needed ? => we can ignore files we don't need to keep truck of
+
+
+Eger istemediyiniz projeyi silmek ucun go to Local C Disk -> select User -> resul -> ideaProject folder -> select Delete
+
+Githubdan projeni silmek ucun go to -> setting -> go down -> delete repository
