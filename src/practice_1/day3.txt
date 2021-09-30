@@ -18,4 +18,4 @@ Go back Intellij IDE
 Git -> Fetch
 Git -> Pull
 
-Eyni GitHubda yaratdigimiz file Intellij IDE import etmis olurug
+Eyni GitHubda yaratdigimiz file Intellij IDE import etmis olurug.
